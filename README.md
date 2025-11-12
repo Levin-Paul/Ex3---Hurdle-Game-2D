@@ -1,9 +1,8 @@
-# 🎮 Ex3 - Hurdle Game 2D
 
 ## 🎯 AIM:
 To design and develop a **2D Hurdle Game** using **Unity Engine**, where the player character jumps over hurdles and collects coins to score points.
 
----
+
 
 ## 🧠 ALGORITHM:
 1. Start a new 2D Unity Project.
@@ -14,11 +13,11 @@ To design and develop a **2D Hurdle Game** using **Unity Engine**, where the pla
 6. Add a Canvas UI to display the score dynamically.
 7. Test, debug, and finalize the game scene.
 
----
+
 
 ## 💻 PROGRAM:
 Player
----
+```
 using System.Collections;
 using System.Collections.Generic;
 //using System.Numerics;
@@ -83,15 +82,10 @@ public class Score : MonoBehaviour
 
 ```
 ## 🕹️ OUTPUT:
+<img width="1920" height="1200" alt="image" src="https://github.com/user-attachments/assets/1531d018-2ac1-4ac5-8bc6-cac4f04e6073" />
 
-### Game View:
-![Hurdle Game Screenshot](e4a02fca-307a-4386-b28b-7a69490e36ac.png)
 
----
 
 ## ✅ RESULT:
 The **2D Hurdle Game** was successfully created and executed in **Unity Engine**, allowing the player to jump over hurdles, collect coins, and update the score in real-time.
 
----
-
-## 📁 FOLDER STRUCTURE:
